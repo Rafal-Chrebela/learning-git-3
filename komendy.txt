@@ -1,1 +1,6 @@
-node_modules\.bin\autoprefixer-cli -o style.prefixed.css style.css
+node_modules\.bin\autoprefixer-cli -o style.prefixed.css style.css 
+node_modules\.bin\nu-html-checker index.html 
+
+(po wpisaniu *.html pojawił 
+się komunikat: internal/streams/legacy.js:59 throw er; //Unhandled 
+stream errir in pipe... itd
